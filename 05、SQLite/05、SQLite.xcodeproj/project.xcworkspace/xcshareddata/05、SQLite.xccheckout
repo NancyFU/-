@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>1A804020-F256-4019-8F14-47237581E629</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>05、SQLite</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>BCBF55B1A89840E9684498E4A237075A04AF49F4</key>
 		<string>https://github.com/NancyFU/-.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>05、SQLite/05、SQLite.xcodeproj/project.xcworkspace</string>
+	<string>05、SQLite/05、SQLite.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>BCBF55B1A89840E9684498E4A237075A04AF49F4</key>

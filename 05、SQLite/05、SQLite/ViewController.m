@@ -87,8 +87,8 @@
 #pragma mark - 数据库表中插入数据
 - (void)insertValues {
     
-    NSString *userID = @"100012";
-    NSString *userName = @"加大对";
+    NSString *userID = @"10001";
+    NSString *userName = @"小燕儿";
     int age = 20;
     
     NSString *sql = [NSString stringWithFormat:@"INSERT INTO User('userID','userName','userAge') VALUES('%@','%@',%d)",userID,userName,age];
